@@ -9,8 +9,7 @@
       {
          "appID": "N7L9T46TDS.com.tonyrobbins.RPM-Light",
          "paths": ["/*", "/callback/*"]
-      },
-
+      }
     ]
   }
 }
