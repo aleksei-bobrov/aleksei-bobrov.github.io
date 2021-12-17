@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+         "appID": "2GVJ6JS822.com.fueled.RPM-Light",
+         "paths": ["/*", "/callback/*"]
+      },
+      {
+         "appID": "N7L9T46TDS.com.tonyrobbins.RPM-Light",
+         "paths": ["/*", "/callback/*"]
+      },
+
+    ]
+  }
+}
